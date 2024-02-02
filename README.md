@@ -44,7 +44,3 @@
   </td>
 <tr>
 </table>
-    
-<a href="https://www.data-card-for-spotify.herokuapp.com/card?user_id=3x6hxgcbjtps6e1kj86b9u3ve">
-  <img src="https://www.data-card-for-spotify.herokuapp.com/api/card?user_id=3x6hxgcbjtps6e1kj86b9u3ve&hide_title=1" alt="Data Card for Spotify">
-</a>
