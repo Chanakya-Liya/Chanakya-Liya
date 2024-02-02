@@ -21,7 +21,7 @@
 <h3 align="center">A passionate person learning to code from Sri Lanka</h3>
 
 <div align = "center">
-           <img src="https://github-profile-trophy-arasgungore.vercel.app/?username=chanakya-liya&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Chanakya Liyanage" />
+           <img src="[https://github-profile-trophy-arasgungore.vercel.app/?username=chanakya-liya&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?](https://avatars.githubusercontent.com/u/124203698?v=4)" alt="Chanakya Liyanage" />
       </div>
 <br>
 
