@@ -19,12 +19,7 @@
 
 
 <h3 align="center">A passionate person learning to code from Sri Lanka</h3>
-
-<div align = "center">
-           <img src="[https://github-profile-trophy-arasgungore.vercel.app/?username=chanakya-liya&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?](https://avatars.githubusercontent.com/u/124203698?v=4)" alt="Chanakya Liyanage" />
-      </div>
-<br>
-
+<h2>Checkout My Portfolio: https://chanakya-liya.github.io/portfolio<h2>
 - 🌱 I’m currently working as a software engineer in field while learning a lot of languages but mostly Java, c# and Javascript.
 
 <h3 align="left">Connect with me:</h3>
