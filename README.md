@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chanakya</h1>
 <div align=center> 
  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=chanakya-liya&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
   </div>
 
